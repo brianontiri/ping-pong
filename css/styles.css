@@ -1,0 +1,42 @@
+.ping{
+  background-image: url(b.jpeg);
+  text-align: center;
+  padding: 50px;
+  height: 250px;
+  color: white;
+}
+.po{
+  background-image: url(color.jpg);
+  height:250px;
+  background-size: cover;
+
+}
+.p{
+  margin-left: 10px;
+  text-align: center;
+  color: white;
+
+}
+.h{
+  color:brown;
+}
+
+h2{
+  padding-top: 15px;
+  text-decoration-color: white;
+}
+.y{
+  background-image: url(dog.jpg);
+  background-position: left;
+  background-size: cover;
+  color: red;
+  height: 650px;
+
+
+}
+.x{
+  margin-left: 10px;
+}
+.hi{
+  background-color: black;
+}
