@@ -4,5 +4,5 @@
 ## project set up instructions
 #### install portfolio by cloning this repository
 ## link to git hub
-#### 
+#### https://github.com/brianontiri/ping-pong.git
 
